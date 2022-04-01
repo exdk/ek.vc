@@ -1,0 +1,4 @@
+<Limit ALL>
+Allow from 178.163.
+Deny from all
+</Limit>

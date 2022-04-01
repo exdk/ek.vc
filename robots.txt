@@ -1,0 +1,8 @@
+User-agent: *
+Crawl-delay: 2
+Disallow: /core/
+Disallow: /designe/
+Disallow: /.htaccess
+Disallow: /.ftpaccess
+Host: ek.vc
+Sitemap: http://ek.vc/sitemap.xml
