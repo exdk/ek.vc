@@ -1,0 +1,127 @@
+body {background:#EAEAEA; font-family: Arial, Helvetica, sans-serif; font-size: 12px; color:#525151; margin: auto; width: 100%; max-width: 800px;}
+.error {
+background : #f7f7f7;
+border-top : 2px solid #ee3b3b;
+border-bottom : 1px solid #ee3b3b;
+color : #696969;
+padding : 10px 2px 6px 6px;
+}
+.error a {
+color : #7A7A7A;
+}
+.error a:hover {
+color : #8A8A8A;
+}
+.error input, .search textarea, .search select {
+border : #ee3b3b solid 1px;
+color : #696969;
+padding : 2px;
+margin : 2px 2px 0 0;
+}
+.head {background: #7a7a7a; color: #FFF; padding: 10px; margin: 0px; text-align: center;}
+.head a {
+color : #FFF;
+text-decoration : none;
+}
+.head a:hover {
+color : #FFF;
+text-decoration : none;
+}
+.gmenu {background: #BEBEBE; color: #FFF; text-align: center;}
+.gmenu p { margin: 0px;}
+.gmenu a {
+color : #fff;
+text-decoration: none;
+display : block;
+padding : 10px;
+}
+.gmenu a:hover {
+color : #fff;
+display : block;
+padding : 10px;
+}
+.main {
+background : #f7f7f7;
+border-top : 1px solid #dbdbdb;
+border-bottom : 1px solid #dbdbdb;
+color : #696969;
+padding : 10px 2px 6px 6px;
+}
+.main a {
+color : #7A7A7A;
+text-decoration : none;
+}
+.main a:hover {
+color : #8A8A8A;
+text-decoration : none;
+}
+.menu {
+background : #f7f7f7;
+border-top : 1px solid #dbdbdb;
+border-bottom : 1px solid #dbdbdb;
+color : #696969;
+padding : 0 2px 0 6px;
+background-image : url(http://ek.vc/designe/img/rightV.png);
+background-repeat : no-repeat;
+background-position : right 50%;
+}
+.menu a {
+color : #7A7A7A;
+display : block;
+padding : 10px;
+text-decoration: none;
+}
+.menu a:hover {
+color : #8A8A8A;
+display : block;
+padding : 10px;
+text-decoration: none;
+}
+input[type="text"], textarea {background: #fff; padding: 5px; border: 1px solid #DCDCDC; color: #666666;}
+input[type="password"] {background: #fff; padding: 5px; border: 1px solid #DCDCDC; color: #666666;}
+input[type="submit"] {background: #EAEAEA; padding: 5px; border: 1px solid #EAEAEA; color: #666666; margin-top: 1px; margin-bottom: 1px; border: 1px solid #DCDCDC;}
+input[type="submit"]:hover {border: 1px solid #DCDCDC;}
+select {padding: 5px; border: 1px solid #DCDCDC; color: #666666;}
+.result {
+background : #f7f7f7;
+border-top : 2px solid #32CD32;
+border-bottom : 1px solid #32CD32;
+color : #696969;
+padding : 10px 2px 6px 6px;
+}
+.result a {
+color : #7A7A7A;
+}
+.result a:hover {
+color : #8A8A8A;
+}
+.result input, .search textarea, .search select {
+border : #32CD32 solid 1px;
+color : #696969;
+padding : 2px;
+margin : 2px 2px 0 0;
+}
+.twitter {
+float:right;
+}
+.vk {
+float:left;
+}
+.notification_error {
+border : #A25965 solid 1px;
+height : auto;
+width : auto;
+margin : 15px 0;
+padding : 4px;
+background : #F8F0F1;
+text-align : left;
+}
+.notification_ok {
+border : #567397 solid 1px;
+height : auto;
+width : auto;
+margin : 15px 0;
+padding : 8px;
+background : #f5f9fd;
+text-align : center;
+}
